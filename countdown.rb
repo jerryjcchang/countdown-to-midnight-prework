@@ -20,4 +20,3 @@ end
 end
 
 countdown_with_sleep(12)
-end
